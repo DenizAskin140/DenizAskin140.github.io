@@ -1,183 +1,182 @@
 [
   {
     "id"  : 1,
-    "name": "Sun",
-    "surname": "Yue",
-    "age": 20
+    "name": "Trae",
+    "surname": "Young",
+    "age": 23
   },
   {
     "id"  : 2,
-    "name": "Arron",
-    "surname": "Afflalo",
-    "age": 20
+    "name": "Jayson",
+    "surname": "Tatum",
+    "age": 24
   },
   {
     "id"  : 3,
-    "name": "Alexis",
-    "surname": "Ajinca",
-    "age": 20
+    "name": "LaMarcus",
+    "surname": "Aldridge",
+    "age": 36
   },
   {
     "id"  : 4,
-    "name": "LaMarcus",
-    "surname": "Aldridge",
+    "name": "LaMelo",
+    "surname": "Ball",
     "age": 20
   },
   {
     "id"  : 5,
-    "name": "Joe",
-    "surname": "Alexander",
-    "age": 20
+    "name": "Zach",
+    "surname": "LaVine",
+    "age": 27
   },
   {
     "id"  : 6,
-    "name": "Malik",
+    "name": "Jarrett",
     "surname": "Allen",
-    "age": 20
+    "age": 24
   },
   {
     "id"  : 7,
-    "name": "Ray",
-    "surname": "Allen",
+    "name": "Luka",
+    "surname": "Doncic",
+    "age": 23
+  },
+  {
+    "id"  : 8,
+    "name": "Nikola",
+    "surname": "Jokic",
+    "age": 27
+  },
+  {
+    "id"  : 9,
+    "name": "Cade",
+    "surname": "Cunningham",
     "age": 20
   },
   {
-    "id"  : 1,
-    "name": "Sun",
-    "surname": "Yue",
+    "id"  : 10,
+    "name": "Stephen",
+    "surname": "Curry",
+    "age": 34
+  },
+  {
+    "id"  : 11,
+    "name": "Josh",
+    "surname": "Christopher",
     "age": 20
   },
   {
-    "id"  : 2,
-    "name": "Arron",
-    "surname": "Afflalo",
-    "age": 20
+    "id"  : 12,
+    "name": "Gabe",
+    "surname": "York",
+    "age": 28
   },
   {
-    "id"  : 3,
-    "name": "Alexis",
-    "surname": "Ajinca",
-    "age": 20
+    "id"  : 13,
+    "name": "Nicolas",
+    "surname": "Batum",
+    "age": 33
   },
   {
-    "id"  : 4,
-    "name": "LaMarcus",
-    "surname": "Aldridge",
-    "age": 20
-  },
-  {
-    "id"  : 5,
-    "name": "Joe",
-    "surname": "Alexander",
-    "age": 20
-  },
-  {
-    "id"  : 6,
-    "name": "Malik",
-    "surname": "Allen",
-    "age": 20
-  },
-  {
-    "id"  : 7,
-    "name": "Ray",
-    "surname": "Allen",
-    "age": 20
+    "id"  : 14,
+    "name": "Carmelo",
+    "surname": "Anthony",
+    "age": 37
   },
     {
-    "id"  : 1,
-    "name": "Sun",
-    "surname": "Yue",
+    "id"  : 15,
+    "name": "Ja",
+    "surname": "Morant",
+    "age": 22
+  },
+  {
+    "id"  : 16,
+    "name": "Jimmy",
+    "surname": "Butler",
+    "age": 32
+  },
+  {
+    "id"  : 17,
+    "name": "Yannis",
+    "surname": "Adetokunbo",
+    "age": 27
+  },
+  {
+    "id"  : 18,
+    "name": "Anthony",
+    "surname": "Edwards",
     "age": 20
   },
   {
-    "id"  : 2,
-    "name": "Arron",
-    "surname": "Afflalo",
+    "id"  : 19,
+    "name": "Zion",
+    "surname": "Williamson",
+    "age": 21
+  },
+  {
+    "id"  : 20,
+    "name": "Obi",
+    "surname": "Toppin",
+    "age": 24
+  },
+  {
+    "id"  : 21,
+    "name": "Shai",
+    "surname": "Gilgeous-Alexander",
+    "age": 23
+  },
+  {
+    "id"  : 22,
+    "name": "Jonathan",
+    "surname": "Isaac",
+    "age": 24
+  },
+  {
+    "id"  : 23,
+    "name": "Joel",
+    "surname": "Embiid",
+    "age": 28
+  },
+  {
+    "id"  : 24,
+    "name": "Devin",
+    "surname": "Booker",
+    "age": 25
+  },
+  {
+    "id"  : 25,
+    "name": "Eric",
+    "surname": "Bledsoe",
+    "age": 32
+  },
+  {
+    "id"  : 26,
+    "name": "Harrison",
+    "surname": "Barnes",
+    "age": 29
+  },
+  {
+    "id"  : 27,
+    "name": "Keita",
+    "surname": "Bates-Diop",
+    "age": 26
+  },
+  {
+    "id"  : 28,
+    "name": "Scottie",
+    "surname": "Barnes",
     "age": 20
   },
   {
-    "id"  : 3,
-    "name": "Alexis",
-    "surname": "Ajinca",
-    "age": 20
+    "id"  : 29,
+    "name": "Donovan",
+    "surname": "Mitchell",
+    "age": 25
   },
   {
-    "id"  : 4,
-    "name": "LaMarcus",
-    "surname": "Aldridge",
-    "age": 20
-  },
-  {
-    "id"  : 5,
-    "name": "Joe",
-    "surname": "Alexander",
-    "age": 20
-  },
-  {
-    "id"  : 6,
-    "name": "Malik",
-    "surname": "Allen",
-    "age": 20
-  },
-  {
-    "id"  : 7,
-    "name": "Ray",
-    "surname": "Allen",
-    "age": 20
-  },
-  {
-    "id"  : 1,
-    "name": "Sun",
-    "surname": "Yue",
-    "age": 20
-  },
-  {
-    "id"  : 2,
-    "name": "Arron",
-    "surname": "Afflalo",
-    "age": 20
-  },
-  {
-    "id"  : 3,
-    "name": "Alexis",
-    "surname": "Ajinca",
-    "age": 20
-  },
-  {
-    "id"  : 4,
-    "name": "LaMarcus",
-    "surname": "Aldridge",
-    "age": 20
-  },
-  {
-    "id"  : 5,
-    "name": "Joe",
-    "surname": "Alexander",
-    "age": 20
-  },
-  {
-    "id"  : 6,
-    "name": "Malik",
-    "surname": "Allen",
-    "age": 20
-  },
-  {
-    "id"  : 7,
-    "name": "Ray",
-    "surname": "Allen",
-    "age": 20
-  }
-  ,
-  {
-    "id"  : 6,
-    "name": "Malik",
-    "surname": "Allen",
-    "age": 20
-  },
-  {
-    "id"  : 7,
-    "name": "Ray",
-    "surname": "Allen",
-    "age": 20
+    "id"  : 30,
+    "name": "Deni",
+    "surname": "Avdija",
+    "age": 21
   }
 ]
